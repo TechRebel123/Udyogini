@@ -4,7 +4,7 @@
 
 Udyogini is an AI-powered co-pilot for women's self-help groups (SHGs). It helps an SHG leader split a bulk order fairly among members, calculate materials and wastage, price the order correctly, and share the payment transparently.
 
-Built by **Team Sudo** for **Tech4Bharat 2026**, Problem Statement 8.1 (Agentic AI): *Women's self-help groups lose orders and members' trust because fulfilment and pay are chaotic.*
+Built by **Team SUDO** for **Tech4Bharat 2026**, Problem Statement 8.1 (Agentic AI): *Women's self-help groups lose orders and members' trust because fulfilment and pay are chaotic.*
 
 > **Status:** Concept and design stage. The working prototype is being built. Screens in this repo are concept screens with sample data.
 
@@ -84,7 +84,7 @@ data/        sample data
 tests/       tests for pricing and split maths
 ```
 
-## Team Sudo
+## Team SUDO
 
 | Name | Role |
 |------|------|
